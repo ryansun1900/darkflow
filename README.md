@@ -1,5 +1,7 @@
 ## Implementation of YoloV2 training 
+
 Done : training loss.
+
 To do : multi scale training, "Stronger" part in paper page 6.
 
 ## Example
